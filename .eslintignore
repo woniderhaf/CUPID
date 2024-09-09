@@ -1,0 +1,5 @@
+**/node_modules/*
+**/.vscode/*
+**/build/*
+**/src/core/api/dadata/config.ts
+**/src/core/api/webzaim/config.ts
